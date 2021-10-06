@@ -1,0 +1,23 @@
+body{
+    width: 900px;
+}
+#menu{
+    height: 30px;
+    width: 100%;
+    border: 1px solid black;
+    display: flex;
+}
+.menu{
+    height: 100%;
+    width: 50%;
+    background: silver;
+    display: flex;
+    justify-content: space-around;
+    align-content: center;
+}
+.left{
+
+}
+.right{
+
+}
