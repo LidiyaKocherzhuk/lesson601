@@ -1,0 +1,83 @@
+body{
+    display: flex;
+    justify-content: center;
+    }
+#syte{
+    border-top : 1px solid #696161;
+    border-bottom : 1px solid #696161;
+    width: 900px;
+}
+#menu{
+    height: 50px;
+    width: 100%;
+    display: flex;
+    background: #e9ecef;
+}
+.menu{
+    height: 100%;
+    width: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.left{
+
+}
+.right{
+    font-size: 20px;
+}
+.fab{
+    margin-left: 30px;
+    color: black;
+    text-decoration: unset;
+}
+.fa-youtube:hover{
+    color: red ;
+}
+.fa-facebook-f:hover{
+    color: #0e0ed5;
+}
+.fa-instagram-square:hover{
+    color: #ff40ae;
+}
+
+.krapky{
+    display: flex;
+    justify-content: center;
+}
+.krapka{
+    width: 13px;
+    height: 13px;
+    border-radius: 50%;
+    margin: 30px;
+    background: black;
+}
+.blocs{
+    display: flex;
+    justify-content: space-around;
+}
+.bloc{
+    width: 200px;
+    min-height: 400px;
+}
+.bloc_img{
+    width: 200px;
+    height: 140px;
+}
+h5{
+    text-align: center ;
+    padding: 10px;
+}
+p{
+    padding: 20px;
+    border-left: 1px solid rebeccapurple;
+}
+.doun{
+
+    width: 100%;
+    height: 50px;
+    display: flex;
+    background: #30ABAE;
+    margin-bottom: 50px;
+
+}
